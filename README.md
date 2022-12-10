@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angellm25
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning Cloud Engineering 
+- 🌱 Studying Computer Engineering 
 - 📫 You can reach me at angelememuo@gmail.com
 
 <!---
