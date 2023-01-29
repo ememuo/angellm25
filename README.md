@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angellm25
-- 👀 I’m interested in a lot of things
-- 🌱 Studying Computer Engineering 
+- 🌱 Studying Electronics and Computer Engineering 
+- 👩‍💻 A Genie
 - 📫 You can reach me at angelememuo@gmail.com
 
 <!---
