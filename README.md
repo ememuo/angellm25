@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angellm25
+- 👋 Hi, I’m Angel
 - 🌱 Studying Electronics and Computer Engineering 
 - 👩‍💻 A Genie
 - 📫 You can reach me at angelememuo@gmail.com
